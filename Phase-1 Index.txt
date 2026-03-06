@@ -1,0 +1,19 @@
+Phase 1 Topics
+#1  Introduction
+#3  Basic idea of java
+#4  Variables and data type
+#5  Getting the user input
+#6  Coding challenge
+#7  Data type explain
+#8  If and Else
+#9  Comparing to strings
+#10 Coding challenge
+#11 Else If
+#12 Coding Challenge
+#14 For loop
+#15 Coding Challenge.
+#16 Array 
+#17 Coding challenge
+#18 Nested loop
+#19 While loop
+#20 Do-While loop
