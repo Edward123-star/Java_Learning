@@ -18,7 +18,7 @@ Here, % is not a percentage; it is called modules.
 Ex( x=15, y=3) 
 we need to check the x is divisible by y, fot that we can do
 
-if(x%y)
+if(x%y==0)
 {
 system.out.print("yes it is divisible");
 }
