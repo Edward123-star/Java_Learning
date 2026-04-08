@@ -1,0 +1,14 @@
+Comparession Operator
+
+To compare two numbers, we need to use ==
+To compare two strings, we need to use .equals("string")
+To compare two numbers to determine which is greater or less, we need to use > and <
+
+
+Logical Operator
+
+To compare two strings, we need to use && and ||
+ex(true and true = true, true&&false=false)
+ex(true||false = true, true|| true= true)
+Here && means and
+|| means or
