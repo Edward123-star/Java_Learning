@@ -12,3 +12,13 @@ ex(true and true = true, true&&false=false)
 ex(true||false = true, true|| true= true)
 Here && means and
 || means or
+
+If we want to check if x is divisible by y, we need to use %
+Here, % is not a percentage; it is called modules.
+Ex( x=15, y=3) 
+we need to check the x is divisible by y, fot that we can do
+
+if(x%y)
+{
+system.out.print("yes it is divisible");
+}
