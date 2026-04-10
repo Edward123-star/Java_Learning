@@ -1,0 +1,9 @@
+Else if
+IF WE NEED TO WRITE A CODE for two conditions, we need to use else if
+IF WE USE JUST AN IF HERE, THE CODE WILL CONTINUE ALL THE CONDITIONS EVEN IF THE FIRST CONDITION IS PASSED
+When we use the else if, the code will stop when the condition becomes true
+
+
+ Nested if 
+If we need to write the code for multiple conditions, we need to use nested if
+Generally, here we need to write an if inside another if
