@@ -1,0 +1,6 @@
+This is the alternative option for the if and else.
+instead of adding if and else, we can use
+String object=boolean?"optionA":"optionB";
+We can use this only for boolean
+
+training6.java file
