@@ -1,0 +1,12 @@
+Array
+To use the array, we need to use [].
+An array is used to arrange and organize a group of code
+The array position always starts from 0
+For example, here we give 5, but the array will count from 0 to 4
+Here we give 1, but the code will be considered as 0
+1=0, 2=1, 3=2, 4=3, 5=4.
+If we try more than the capacity, it will show an error
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+We need to check what kind of input we are going to give
+If string - String[]object= new String[]
+IF integer - Int[]object= new Int[]
