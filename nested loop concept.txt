@@ -1,0 +1,3 @@
+Nested loop 
+If the one loop runs inside another loop is called a nested loop
+This for loop will continue till the first loop break

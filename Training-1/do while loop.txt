@@ -1,0 +1,6 @@
+Do While loop
+The condition is true or false, doesn't matter.
+The loop will work once
+We can use this in very few places
+For example, we need to get the input from the user under some conditions.
+If we use the do-while, it will loop until the user input matches the condition

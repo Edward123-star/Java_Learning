@@ -1,0 +1,7 @@
+While loop
+If we know the starting and ending, we can use the for loop
+If we don't know the endpoint, we can use the while loop
+We can generate a random number by using the while loop
+For the random number, we need to use the import java. util.Random
+For the random, we need to use the following line
+    Random num= new Random();
