@@ -1,0 +1,17 @@
+Here we are creating the function inside the class not in the main function.
+We need to add the void infront of the function to create the function.
+We can create the multiple function outside the main function.
+We need to add the static before the main function.
+To call the function from outside to inside the main function we need to create the object
+Example training1of1 obj = new training1of1();
+training1of1 is class.
+obj is created object to call the function.
+There is two way to call the function into the main function.
+Directly we can call the second function into the main function by creating the object.        
+The second way is we can add the second function into the first finction.
+void greeting(){
+System.out.println("Hello, welcome to my channel");
+hello();}
+If we add this means we just need to call the first function and the second function will be called automatuically.
+We can't call the normal function into the main function(Static) without creating the object, but we can call the non ststic function to non static function without creating the object.
+Or we can call the static function to another static function without creating the object.
