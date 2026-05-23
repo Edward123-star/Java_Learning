@@ -1,3 +1,4 @@
+// Object and class
 import java.util.Scanner;
 public class systemshop{ 
 // variables in the class, not in the main function
